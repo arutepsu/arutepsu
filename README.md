@@ -1,5 +1,4 @@
 <h1 align="center">🌍 Profile Overview</h1>
----
 <p align="center">
   <em>A quick overview of my projects.</em>
 </p>
@@ -16,20 +15,22 @@
 
 <h2 align="center">📂 Featured Repositories</h2>
 
-<h3 align="center">🎮 <a href="https://github.com/arutepsu/Soccer-Card-Clash">SoccerCardClash</a></h3>
+<p align="center">🎮 <a href="https://github.com/arutepsu/Soccer-Card-Clash"><strong>SoccerCardClash</strong></a></p>
 <p align="center">
-  <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="125"/>
+  <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="125" style="border-radius:12px;"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">🌐 <a href="https://github.com/arutepsu/Soccer-Card-Clash-Web">SoccerCardClashWeb</a></h3>
+<p align="center">🌐 <a href="https://github.com/arutepsu/Soccer-Card-Clash-Web"><strong>SoccerCardClashWeb</strong></a></p>
 <p align="center">
-  <img src="./data/SCC_0.2k.png" alt="SoccerCardClashWeb Logo" width="125"/>
+  <img src="./data/SCC_0.2k.png" alt="SoccerCardClashWeb Logo" width="125" style="border-radius:12px;"/>
 </p>
 
 <p align="center">
@@ -41,9 +42,9 @@
 
 ---
 
-<h3 align="center">📱 <a href="https://github.com/arutepsu/LocalPlayer">LocalPlayer</a></h3>
+<p align="center">📱 <a href="https://github.com/arutepsu/LocalPlayer"><strong>LocalPlayer</strong></a></p>
 <p align="center">
-  <img src="./data/LocalPlayer.png" alt="LocalPlayer Logo" width="75"/>
+  <img src="./data/LocalPlayer.png" alt="LocalPlayer Logo" width="75" style="border-radius:12px;"/>
 </p>
 
 <p align="center">
