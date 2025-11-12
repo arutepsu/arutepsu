@@ -15,10 +15,11 @@
 
 <h2 align="center">📂 Featured Repositories</h2>
 
-<p align="center">🎮 <a href="https://github.com/arutepsu/Soccer-Card-Clash"><strong>SoccerCardClash</strong></a></p>
 <p align="center">
   <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="125" style="border-radius:12px;"/>
 </p>
+
+<p align="center">🎮 <a href="https://github.com/arutepsu/Soccer-Card-Clash"><strong>SoccerCardClash</strong></a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />
@@ -28,10 +29,11 @@
 
 ---
 
-<p align="center">🌐 <a href="https://github.com/arutepsu/Soccer-Card-Clash-Web"><strong>SoccerCardClashWeb</strong></a></p>
 <p align="center">
   <img src="./data/SCC_0.2k.png" alt="SoccerCardClashWeb Logo" width="125" style="border-radius:12px;"/>
 </p>
+
+<p align="center">🌐 <a href="https://github.com/arutepsu/Soccer-Card-Clash-Web"><strong>SoccerCardClashWeb</strong></a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,10 +44,11 @@
 
 ---
 
-<p align="center">📱 <a href="https://github.com/arutepsu/LocalPlayer"><strong>LocalPlayer</strong></a></p>
 <p align="center">
   <img src="./data/LocalPlayer.png" alt="LocalPlayer Logo" width="75" style="border-radius:12px;"/>
 </p>
+
+<p align="center">📱 <a href="https://github.com/arutepsu/LocalPlayer"><strong>LocalPlayer</strong></a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
