@@ -1,5 +1,5 @@
 <h1 align="center">🌍 Profile Overview</h1>
-
+---
 <p align="center">
   <em>A quick overview of my projects.</em>
 </p>
@@ -18,7 +18,7 @@
 
 <h3 align="center">🎮 <a href="https://github.com/arutepsu/Soccer-Card-Clash">SoccerCardClash</a></h3>
 <p align="center">
-  <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="100"/>
+  <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="125"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 <h3 align="center">🌐 <a href="https://github.com/arutepsu/Soccer-Card-Clash-Web">SoccerCardClashWeb</a></h3>
 <p align="center">
-  <img src="./data/SCC_0.2k.png" alt="SoccerCardClashWeb Logo" width="100"/>
+  <img src="./data/SCC_0.2k.png" alt="SoccerCardClashWeb Logo" width="125"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 <h3 align="center">📱 <a href="https://github.com/arutepsu/LocalPlayer">LocalPlayer</a></h3>
 <p align="center">
-  <img src="./data/LocalPlayer.png" alt="LocalPlayer Logo" width="50"/>
+  <img src="./data/LocalPlayer.png" alt="LocalPlayer Logo" width="75"/>
 </p>
 
 <p align="center">
