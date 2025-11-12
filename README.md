@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Language Usage Stats
+<h2 align="center">📊 Language Usage Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arutepsu&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -14,11 +14,11 @@
 
 ---
 
-## 📂 Featured Repositories
+<h2 align="center">📂 Featured Repositories</h2>
 
 <h3 align="center">🎮 <a href="https://github.com/arutepsu/Soccer-Card-Clash">SoccerCardClash</a></h3>
 <p align="center">
-  <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="200"/>
+  <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="100"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 <h3 align="center">🌐 <a href="https://github.com/arutepsu/Soccer-Card-Clash-Web">SoccerCardClashWeb</a></h3>
 <p align="center">
-  <img src="./data/SCC_0.2k.png" alt="SoccerCardClashWeb Logo" width="200"/>
+  <img src="./data/SCC_0.2k.png" alt="SoccerCardClashWeb Logo" width="100"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 <h3 align="center">📱 <a href="https://github.com/arutepsu/LocalPlayer">LocalPlayer</a></h3>
 <p align="center">
-  <img src="./data/LocalPlayer.png" alt="LocalPlayer Logo" width="200"/>
+  <img src="./data/LocalPlayer.png" alt="LocalPlayer Logo" width="50"/>
 </p>
 
 <p align="center">
@@ -52,11 +52,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/count/arutepsu/profile-languages?style=for-the-badge" alt="Languages Count" />
-  <img src="https://img.shields.io/github/last-commit/arutepsu/profile-languages?style=for-the-badge" alt="Last Commit" />
-</p>
 
 <p align="center">
   🧩 <strong>Created and maintained by <a href="https://github.com/arutepsu">arutepsu</a></strong>
