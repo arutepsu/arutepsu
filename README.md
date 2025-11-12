@@ -1,19 +1,8 @@
-<h1 align="center">🌍 Profile Languages</h1>
+<h1 align="center">🌍 Profile Overview</h1>
 
 <p align="center">
-  <em>A quick overview of the main programming languages I use across my projects.</em>
+  <em>A quick overview of my projects.</em>
 </p>
-
----
-
-## 🧠 Tech Stack Overview
-
-| Language | Badge |
-|-----------|-------|
-| 🟥 **Scala** | ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) |
-| 🟨 **Python** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 🟦 **Dart / Flutter** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-| 🟩 **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 ---
 
@@ -27,7 +16,7 @@
 
 ## 📂 Featured Repositories
 
-### 🎮 [SoccerCardClash](https://github.com/YOUR_USERNAME/SoccerCardClash)
+<h3 align="center">🎮 <a href="https://github.com/arutepsu/Soccer-Card-Clash">SoccerCardClash</a></h3>
 <p align="center">
   <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="200"/>
 </p>
@@ -38,7 +27,7 @@
 
 ---
 
-### 🌐 [SoccerCardClashWeb](https://github.com/YOUR_USERNAME/SoccerCardClashWeb)
+<h3 align="center">🌐 <a href="https://github.com/arutepsu/Soccer-Card-Clash-Web">SoccerCardClashWeb</a></h3>
 <p align="center">
   <img src="./data/SCC_0.2k.png" alt="SoccerCardClashWeb Logo" width="200"/>
 </p>
@@ -52,9 +41,9 @@
 
 ---
 
-### 📱 [LocalPlayer](https://github.com/YOUR_USERNAME/LocalPlayer)
+<h3 align="center">📱 <a href="https://github.com/arutepsu/LocalPlayer">LocalPlayer</a></h3>
 <p align="center">
-  <img src="./data/localplayer.png" alt="LocalPlayer Logo" width="200"/>
+  <img src="./data/LocalPlayer.png" alt="LocalPlayer Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -63,6 +52,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://img.shields.io/github/languages/count/arutepsu/profile-languages?style=for-the-badge" alt="Languages Count" />
   <img src="https://img.shields.io/github/last-commit/arutepsu/profile-languages?style=for-the-badge" alt="Last Commit" />
