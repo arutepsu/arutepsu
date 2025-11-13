@@ -1,8 +1,4 @@
 <h1 align="center">🌍 Profile Overview</h1>
-<p align="center">
-  <em>A quick overview of my projects.</em>
-</p>
-
 ---
 
 <p align="center">
