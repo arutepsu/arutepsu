@@ -5,10 +5,8 @@
 
 ---
 
-<h2 align="center">📊 Language Usage Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arutepsu&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arutepsu&layout=compact&theme=tokyonight&cache_bust=1" alt="Top Languages" />
 </p>
 
 ---
