@@ -1,7 +1,7 @@
 <h1 align="center">🌍 Profile Overview</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arutepsu&layout=compact&theme=tokyonight&cache_bust=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arutepsu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
