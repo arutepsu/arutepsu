@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="./data/PeerLock.png" alt="PeerLock Logo" width="75" style="border-radius:12px;"/>
+  <img src="./data/peerlockShort.png" alt="PeerLock Logo" width="75" style="border-radius:12px;"/>
 </p>
 
 <p align="center">🔐 <a href="https://github.com/arutepsu/PeerLock"><strong>PeerLock</strong></a></p>
