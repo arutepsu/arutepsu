@@ -30,14 +30,13 @@
 </p>
 
 <p align="center">
-  <img src="./data/peerlockShort.png" alt="PeerLock Logo" width="75" style="border-radius:12px;"/>
+  <img src="./data/peerlockShort.png" alt="PeerLock Logo" width="125" style="border-radius:12px;"/>
 </p>
 
 <p align="center">🔐 <a href="https://github.com/arutepsu/PeerLock"><strong>PeerLock</strong></a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-1E82D0?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 </p>
