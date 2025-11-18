@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />
 </p>
----
 
 <p align="center">
   <img src="./data/LocalPlayer.png" alt="LocalPlayer Logo" width="75" style="border-radius:12px;"/>
