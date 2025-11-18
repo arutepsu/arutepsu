@@ -12,7 +12,7 @@
 <h2 align="center">📂 Featured Repositories</h2>
 
 <p align="center">
-  <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="125" style="border-radius:12px;"/>
+  <img src="./data/SCC_0.2k.png" alt="SoccerCardClash Logo" width="135" style="border-radius:12px;"/>
 </p>
 
 <p align="center">🎮 <a href="https://github.com/arutepsu/Soccer-Card-Clash"><strong>SoccerCardClash</strong></a></p>
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="./data/peerlockShort.png" alt="PeerLock Logo" width="125" style="border-radius:12px;"/>
+  <img src="./data/peerlockShort.png" alt="PeerLock Logo" width="135" style="border-radius:12px;"/>
 </p>
 
 <p align="center">🔐 <a href="https://github.com/arutepsu/PeerLock"><strong>PeerLock</strong></a></p>
