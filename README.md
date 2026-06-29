@@ -32,6 +32,20 @@
 </p>
 
 <p align="center">
+  <img src="./data/searchess.png" alt="Searchess Logo" width="145" style="border-radius:12px;"/>
+</p>
+
+<p align="center">♟️ <a href="https://github.com/arutepsu/SeArChess"><strong>Searchess</strong></a></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="./data/peerlockShort.png" alt="PeerLock Logo" width="145" style="border-radius:12px;"/>
 </p>
 
